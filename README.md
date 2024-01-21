@@ -11,4 +11,8 @@ It has 3 layers
   > Virtual warehouse
 4. Cloud service Layer
   > Authentication and Authorization
+> Session and User management
+> Query compilation, optimization and Data caching
+> Virtual Warehouse management, Coordinate data Updates and Transaction management
+> Metadata management, support zero copy cloning, Time travel and Data sharing.
 
